@@ -5,4 +5,4 @@ title = "Fred"
 +++
 This is the index page
 
-\[Home page\](/home-page.md)
+\[Home page\](home-page.md)
