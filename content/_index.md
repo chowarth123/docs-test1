@@ -4,3 +4,5 @@ title = "Fred"
 
 +++
 This is the index page
+
+**{{**< ref "home-page.md" >**}}**
