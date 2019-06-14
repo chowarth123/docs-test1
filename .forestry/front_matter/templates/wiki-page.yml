@@ -9,6 +9,5 @@ fields:
   name: date
   label: date
 pages:
-- content/index.md
 - content/home-page.md
 - content/wiki-page-number-1.md
