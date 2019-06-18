@@ -6,3 +6,5 @@ title = "Fred"
 This is the index page
 
 \[Home page\](home-page.md)
+
+hello new content
